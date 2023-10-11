@@ -1,4 +1,6 @@
 # 默认忽略的文件
+mall/.idea/*
+.idea/*
 *.class
 *.log
 *.lock
