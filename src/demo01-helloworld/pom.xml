@@ -15,6 +15,7 @@
     </properties>
     <dependencies>
         <dependency>
+            <!--启动器-->
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
